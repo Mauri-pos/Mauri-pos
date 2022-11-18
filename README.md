@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Chemical engineering student | Python programmer | Learning about artificial neural networks (https://github.com/Mauri-pos).
 
 - ❤ Estudante de Game Design
 - 💙 Fã da Alura
