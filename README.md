@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Chemical engineering student | Python programmer | Learning about artificial neural networks (https://github.com/Mauri-pos).
+A chemical engineering student at UNICAMP with interests in software development (https://github.com/Mauri-pos).
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- Python programmer
+- Learning about artifitial neural networks
+- Interest to learn new programation skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,6 +28,6 @@ Chemical engineering student | Python programmer | Learning about artificial neu
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauri-pos&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=mauri-pos&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
