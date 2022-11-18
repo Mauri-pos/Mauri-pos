@@ -10,9 +10,9 @@
 
 A chemical engineering student at UNICAMP with interests in software development (https://github.com/Mauri-pos).
 
-- Python programmer
-- Learning about artifitial neural networks
-- Interest to learn new programation skills
+- 🧑‍💻 Python programmer
+- 🤖 Learning about artifitial neural networks
+- 💻 Interest to learn new programation skills
 
 <div>
   
